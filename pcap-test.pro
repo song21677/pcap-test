@@ -7,4 +7,4 @@ SOURCES += \
     main.cpp
 
 HEADERS += \
-    libnet-headers.h
+    headers.h
